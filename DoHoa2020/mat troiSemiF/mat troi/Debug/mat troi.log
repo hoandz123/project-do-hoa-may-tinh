@@ -1,0 +1,10 @@
+﻿  mat troi.cpp
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(98,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(99,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(100,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(142,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(143,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(148,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(149,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\camas\Desktop\mat troiSemiF\mat troi\mat troi.cpp(163,5): warning C4065: switch statement contains 'default' but no 'case' labels
+  mat troi.vcxproj -> C:\Users\camas\Desktop\mat troiSemiF\Debug\mat troi.exe

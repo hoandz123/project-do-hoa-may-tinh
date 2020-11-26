@@ -1,0 +1,7 @@
+﻿  NgoiSaoQuayTraiPhai.cpp
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\NgoiSaoQuayTraiPhai\NgoiSaoQuayTraiPhai.cpp(16,27): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\NgoiSaoQuayTraiPhai\NgoiSaoQuayTraiPhai.cpp(24,14): warning C4244: '=': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\NgoiSaoQuayTraiPhai\NgoiSaoQuayTraiPhai.cpp(26,32): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\NgoiSaoQuayTraiPhai\NgoiSaoQuayTraiPhai.cpp(26,16): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\NgoiSaoQuayTraiPhai\NgoiSaoQuayTraiPhai.cpp(48,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+  NgoiSaoQuayTraiPhai.vcxproj -> C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\Debug\NgoiSaoQuayTraiPhai.exe

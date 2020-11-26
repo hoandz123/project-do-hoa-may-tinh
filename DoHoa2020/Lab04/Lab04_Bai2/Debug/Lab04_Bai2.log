@@ -1,0 +1,11 @@
+﻿  Lab04_Bai2.cpp
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(316,28): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(322,32): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(322,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(323,34): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(323,15): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(324,47): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(324,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(325,45): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Lab04_Bai2\Lab04_Bai2.cpp(325,17): warning C4244: 'argument': conversion from 'int' to 'GLfloat', possible loss of data
+  Lab04_Bai2.vcxproj -> C:\Users\camas\Desktop\ThucHanhDH2020\Lab04\Debug\Lab04_Bai2.exe

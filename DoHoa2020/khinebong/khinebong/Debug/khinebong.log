@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\camas\Desktop\khinebong\khinebong\main.cpp(126,22): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\camas\Desktop\khinebong\khinebong\main.cpp(359,17): warning C4244: 'initializing': conversion from 'float' to 'UINT32', possible loss of data
+  khinebong.vcxproj -> C:\Users\camas\Desktop\khinebong\Debug\khinebong.exe

@@ -1,0 +1,4 @@
+﻿  BT_13.cpp
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\BT_13\BT_13.cpp(29,14): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\TestCPlusPlus\BT_13\BT_13.cpp(31,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

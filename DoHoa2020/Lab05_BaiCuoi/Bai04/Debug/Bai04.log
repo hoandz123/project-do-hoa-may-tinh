@@ -1,0 +1,8 @@
+﻿  Bai04.cpp
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(80,46): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(81,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(82,46): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(83,47): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(84,46): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Bai04\Bai04.cpp(85,47): warning C4305: '-=': truncation from 'double' to 'float'
+  Bai04.vcxproj -> C:\Users\camas\Desktop\DoHoa2020\Lab05_BaiCuoi\Debug\Bai04.exe

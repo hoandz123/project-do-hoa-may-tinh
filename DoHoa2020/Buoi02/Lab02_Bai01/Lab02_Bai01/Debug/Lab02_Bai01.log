@@ -1,0 +1,12 @@
+﻿  Lab02_Bai01.cpp
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(47,52): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(47,27): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(77,27): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(78,28): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(79,29): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(80,26): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(140,27): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(141,28): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(142,29): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai01\Lab02_Bai01.cpp(143,26): warning C4244: '=': conversion from 'GLdouble' to 'GLfloat', possible loss of data
+  Lab02_Bai01.vcxproj -> C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Debug\Lab02_Bai01.exe

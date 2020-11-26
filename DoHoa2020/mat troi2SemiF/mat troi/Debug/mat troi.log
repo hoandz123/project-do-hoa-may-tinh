@@ -1,0 +1,18 @@
+﻿  mat troi.cpp
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(159,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(160,13): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(161,15): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(188,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(192,17): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(196,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(198,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(200,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(202,15): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(204,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(206,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(208,13): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(231,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(232,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(237,25): warning C4244: '=': conversion from 'double' to 'GLfloat', possible loss of data
+C:\Users\camas\Desktop\mat troi2SemiF\mat troi\mat troi.cpp(238,19): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+LINK : fatal error LNK1104: cannot open file 'freeglut.lib'

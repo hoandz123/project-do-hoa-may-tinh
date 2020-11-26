@@ -1,0 +1,13 @@
+﻿  Lab02_Bai03.cpp
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(182,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(185,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(186,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(190,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(193,54): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(194,55): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(200,28): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(203,54): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(204,55): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(278,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Lab02_Bai03\Lab02_Bai03.cpp(281,9): warning C4129: '-': unrecognized character escape sequence
+  Lab02_Bai03.vcxproj -> C:\Users\camas\Desktop\ThucHanhDH2020\Buoi02\Lab02_Bai01\Debug\Lab02_Bai03.exe
